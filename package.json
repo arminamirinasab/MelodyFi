@@ -1,0 +1,25 @@
+{
+  "name": "melodyfi",
+  "version": "1.0.0",
+  "description": "Music player with Electron.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arminamirinasab/MelodyFi.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Armin Amiri Nasab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arminamirinasab/MelodyFi/issues"
+  },
+  "homepage": "https://github.com/arminamirinasab/MelodyFi#readme",
+  "devDependencies": {
+    "electron": "^34.0.2"
+  }
+}
